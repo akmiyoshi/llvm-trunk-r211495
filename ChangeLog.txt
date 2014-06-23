@@ -1,3 +1,5 @@
+* 2014/06/24: Modify ./tools/clang/lib/Frontend/InitHeaderSearch.cpp
+
 * 2014/06/24: Clone SVN repository:
   svn export -r 211495 http://llvm.org/svn/llvm-project/llvm/trunk llvm-trunk
   svn export -r 211495 http://llvm.org/svn/llvm-project/cfe/trunk  llvm-trunk/tools/clang
