@@ -1,3 +1,4 @@
+* 2014/06/25: Add    ./tools/clang/lib/Frontend/InitHeaderSearch.cpp.orig
 * 2014/06/24: Modify ./tools/clang/lib/Frontend/InitHeaderSearch.cpp
   +      AddMinGWCPlusPlusIncludePaths("/usr/lib/gcc", "i686-pc-cygwin", "4.8.3");
 * 2014/06/24: Clone SVN repository:
